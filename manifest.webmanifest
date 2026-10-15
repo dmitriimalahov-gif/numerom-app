@@ -1,0 +1,20 @@
+{
+  "name": "NumerOM",
+  "short_name": "NumerOM",
+  "lang": "ru",
+  "description": "Персональные числа, обучение и схемы NumerOM.",
+  "start_url": "/numerom-app/",
+  "scope": "/numerom-app/",
+  "id": "/numerom-app/",
+  "display": "standalone",
+  "background_color": "#F6F7F5",
+  "theme_color": "#17354E",
+  "icons": [
+    {
+      "src": "/numerom-app/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
